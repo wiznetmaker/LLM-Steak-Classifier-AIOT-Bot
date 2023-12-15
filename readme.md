@@ -6,6 +6,8 @@ With the announcement of OpenAI, GPT's performance was further improved, and the
 
 ![img](https://maker.wiznet.io/upload/ckeditor5/453286645%5F1702631979.png)
 
+![img](https://maker.wiznet.io/upload/ckeditor5/453287351%5F1702649773.png)
+
 **Recognize and store images with descriptions of meat (using GPT-4-vision)**
 
 - Recognize an image with a description of meat using GPT-4-vision.
@@ -35,7 +37,7 @@ With the announcement of OpenAI, GPT's performance was further improved, and the
 
 I've uploaded the code based on the code I studied to use Vision, but since there is a langchain library for LLM, I've also uploaded the langchain method for more efficient code refactoring.
 
-![img](https://maker.wiznet.io/upload/ckeditor5/453286645%5F1702630883.png)
+
 
 function.py is the source code that defines the functions used and is written as a library, while app.py contains the code that runs Streamlit and uses the UI GPT.
 

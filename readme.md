@@ -4,8 +4,6 @@ With the announcement of OpenAI, GPT's performance was further improved, and the
 
 #### Project flow
 
-![img](https://maker.wiznet.io/upload/ckeditor5/453286645%5F1702631979.png)
-
 ![img](https://maker.wiznet.io/upload/ckeditor5/453287351%5F1702649773.png)
 
 **Recognize and store images with descriptions of meat (using GPT-4-vision)**
